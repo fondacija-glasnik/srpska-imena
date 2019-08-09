@@ -2,6 +2,7 @@
 Lista srpskih imena
 
 **Licenca:** MIT
+
 **Datum kreiranja projekta:** 9.8.2019.
 
 > Ukoliko imate predolg za dodavanje imena možete poslati PR.
